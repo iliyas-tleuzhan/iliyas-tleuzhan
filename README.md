@@ -91,7 +91,7 @@ This project is intentionally experimental and serves as a platform to learn and
 
 GitHub: [https://github.com/iliyas-tleuzhan](https://github.com/iliyas-tleuzhan)
 
-Email: u3660418@connect.hku.hk
+Email: tleuzhaniliyas@gmail.com
 
 ---
 
