@@ -1,7 +1,6 @@
 # Hi, I’m Iliyas
 
-![Lerobot](assets/cool_leader_photo)
-![Teleoperation demo](assets/gif.gif)
+![Lerobot](https://github.com/user-attachments/assets/6de081f0-7d8b-426f-a63f-37d3d87e826c)
 
 
 
