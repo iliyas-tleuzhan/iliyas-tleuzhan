@@ -1,6 +1,9 @@
 # Hi, I’m Iliyas
 
-![Lerobot](https://github.com/user-attachments/assets/6de081f0-7d8b-426f-a63f-37d3d87e826c)
+<p align="center">
+  <img src="assets/cool_leader_photo.jpeg" width="500" height="500">
+</p>
+
 
 
 
