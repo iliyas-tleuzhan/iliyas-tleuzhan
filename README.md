@@ -1,5 +1,10 @@
 # Hi, I’m Iliyas
 
+![Lerobot](assets/cool_leader_photo)
+![Teleoperation demo](assets/gif.gif)
+
+
+
 I am a **Computer Engineering student at The University of Hong Kong (HKU)** with a strong interest in **robotics, embedded systems, and hardware–software integration**. I enjoy building real systems that interact with the physical world and learning through hands-on experimentation.
 
 I am particularly interested in **robotics teleoperation, smart actuators, and safety-aware control**, and I plan to further explore **computer vision and machine learning** as part of future robotics projects.
